@@ -1,0 +1,50 @@
+body{
+    background-image:url('/brett-jordan-U2q73PfHFpM-unsplash.jpg');
+}
+.firstblock{
+    background-color:black;
+    color:white;
+    padding-left:120px;
+}
+.navbar{
+    background-color:white;
+    padding:15px 0;
+    font-weight: bold;
+}
+.body{
+    text-align:center;
+   color:white;
+}
+.footerend{
+    width:300px;
+    height:auto;
+    display:flex;
+    color:white;
+    align-items:center;
+    background-color:red;
+}
+.footer{
+    display:flex;
+    justify-content:center;
+    position:absolute;
+    top:580px;
+    left:250px;
+}
+.footerend1{
+    padding:10px;
+    background-color:white;
+    color:black;
+    margin-bottom:10px;
+}
+.footerend2{
+    padding:10px;
+    background-color:pink;
+    color:white;
+    margin-bottom:10px;
+}
+.footerend3{
+    padding:10px;
+    background-color:white;
+    color:black;
+    margin-bottom:10px;
+}
